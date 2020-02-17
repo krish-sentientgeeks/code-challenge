@@ -1,7 +1,5 @@
 # CodeChallange
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
-
 ## For Bypassing the yelp CORS error
 
 go to https://github.com/Rob--W/cors-anywhere project and run the project. As yelp api does not support CORS in frontend developement thats why we have bypass the CORS rules through this node server.
